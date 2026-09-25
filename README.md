@@ -45,3 +45,61 @@ Business Questions
       │
       ▼
  Answers & Summaries
+
+## Key Capabilities
+
+- Query MBR documents using natural language.
+- Retrieve information from SharePoint.
+- Generate concise answers based on the available documentation.
+- Summarize Monthly Business Review information.
+- Support questions about KPIs, sales information, responsibilities and business topics.
+- Provide a conversational interface to enterprise information.
+
+## Technologies
+
+- Microsoft Copilot Studio
+- SharePoint
+- Microsoft 365
+- Large Language Model (LLM)
+- Knowledge Grounding
+
+## Architecture
+
+The solution separates the conversational model from the enterprise knowledge source.
+
+The language model is responsible for interpreting the user's question and generating the response, while SharePoint provides the business information used to ground the response.
+
+For more details, see:
+
+- [Solution Architecture](documentation/architecture.md)
+
+## Example Questions
+
+The agent can answer questions such as:
+
+> What is the Monthly Business Review?
+
+> What KPIs are included in the MBR?
+
+> Who is responsible for preparing the MBR?
+
+> What information is contained in the sales report?
+
+> Summarize the Monthly Business Review.
+
+## Project Structure
+
+```text
+copilot-studio-mbr-agent/
+│
+├── README.md
+│
+├── documentation/
+│   ├── architecture.md
+│   ├── business-case.md
+│   └── mbr-agent.md
+│
+├── sample-data/
+│   └── README.md
+│
+└── screenshots/
