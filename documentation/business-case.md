@@ -64,3 +64,27 @@ Multiple MBR Documents
           │
           ▼
    Answer / Summary
+'''
+## Expected Benefits
+
+The solution is intended to:
+
+- Reduce the time spent manually reviewing MBR documents.
+- Make business information easier to access.
+- Provide a conversational interface for MBR information.
+- Support the identification of recurring topics.
+- Help leaders focus on business analysis rather than document consolidation.
+
+## Scope of the Prototype
+
+The current prototype focuses on:
+
+- SharePoint as the document repository.
+- MBR documents as the knowledge source.
+- Copilot Studio as the agent platform.
+- Natural language questions.
+- Knowledge-grounded answers and summaries.
+
+The prototype does not currently implement automated business actions or advanced analytics.
+
+These capabilities could be explored in future iterations.
