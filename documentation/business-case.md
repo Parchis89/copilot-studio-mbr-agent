@@ -90,6 +90,4 @@ The prototype does not currently implement automated business actions or advance
 
 These capabilities could be explored in future iterations.
 
-The prototype does not currently implement automated business actions or advanced analytics.
 
-These capabilities could be explored in future iterations.
