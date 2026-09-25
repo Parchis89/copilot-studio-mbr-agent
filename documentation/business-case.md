@@ -64,7 +64,8 @@ Multiple MBR Documents
           │
           ▼
    Answer / Summary
-'''
+```
+
 ## Expected Benefits
 
 The solution is intended to:
