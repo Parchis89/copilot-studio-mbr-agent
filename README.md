@@ -87,19 +87,11 @@ The agent can answer questions such as:
 
 > Summarize the Monthly Business Review.
 
-## Project Structure
+## Project Status
 
-```text
-copilot-studio-mbr-agent/
-│
-├── README.md
-│
-├── documentation/
-│   ├── architecture.md
-│   ├── business-case.md
-│   └── mbr-agent.md
-│
-├── sample-data/
-│   └── README.md
-│
-└── screenshots/
+**Status:** Prototype / Learning Project
+
+The current implementation focuses on knowledge retrieval and conversational interaction with MBR documents stored in SharePoint.
+
+Future iterations could extend the solution with additional automation, actions, analytics and business workflows.
+
