@@ -46,6 +46,8 @@ Business Questions
       ▼
  Answers & Summaries
 
+```
+
 ## Key Capabilities
 
 - Query MBR documents using natural language.
